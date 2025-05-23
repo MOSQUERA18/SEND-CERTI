@@ -1,0 +1,7 @@
+pip install pandas
+pip install selenium
+pip install webdriver-manager
+
+
+for install all : 
+pip install pandas selenium webdriver-manager
